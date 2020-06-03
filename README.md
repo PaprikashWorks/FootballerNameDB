@@ -1,2 +1,2 @@
 # FootballerNameDB
- Footballer names sqlite-database
+ Footballers names and surnames with popularity for more realistic names generation.  
